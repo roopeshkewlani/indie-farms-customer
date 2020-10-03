@@ -1,0 +1,3 @@
+com\indie\farms\customer\CustomerApplication.class
+com\indie\farms\customer\dto\UserDTO.class
+com\indie\farms\customer\api\OnboardingController.class
